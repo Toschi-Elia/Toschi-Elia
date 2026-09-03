@@ -68,6 +68,12 @@
 * **Key Features:** Distributed architecture designed to handle concurrent user interactions and search queries.
 * **Database:** Robust backend integration using PostgreSQL for structured relational data management.
 
+### 🚗 [Connecter](https://github.com/Toschi-Elia/Connecter) — *Personal Project*
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
+> A lightweight Android background utility for zero-touch music automation upon connecting to car Bluetooth stereos.
+* **Key Features:** Automatic hands-free Spotify playback, volume normalization, and hardware MAC-address matching resilient to device renames.
+* **Tech Highlight:** Engineered an ultra-light Foreground Service with A2DP broadcast synchronization and native media Intents, avoiding OAuth tokens and network overhead.
+
 
 
 
