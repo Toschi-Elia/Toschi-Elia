@@ -51,6 +51,20 @@
 
 * **Key Features:** Intuitive XML-based user interface with dynamic data rendering.
 * **Tech Highlight:** Implemented secure user authentication and real-time database synchronization using Firebase.
+  
+### 🏎️ [F1 Telemetry Dashboard](https://github.com/Toschi-Elia/F1-Telemetry-Dashboard) — *Personal Project*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> An interactive analytics dashboard for Formula 1 telemetry, enabling 1:1 driver performance comparisons on a unified spatial grid.
+* **Key Features:** Multi-channel telemetry graphs (delta, speed, throttle, brake, gear) synchronized with a dynamic 2D GPS track map and official FIA corner annotations.
+* **Engineering Highlight:** Built with Clean Architecture; implemented 1D spatial interpolation to align time-series data by distance traveled and integrated a Parquet cache-aside layer for near-instantaneous queries.
+
+### 🍽️ [TheKnife](https://github.com/sonoFrangu/theknife) — *University Team Project*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+> A distributed application designed for discovering, searching, and reviewing restaurants.
+
+* **Key Features:** Distributed architecture designed to handle concurrent user interactions and search queries.
+* **Database:** Robust backend integration using PostgreSQL for structured relational data management.
 
 ### 🧠 [WESAD Stress Detection](https://github.com/mviselli/wesad-stress-detection) — *University Team Project*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -60,13 +74,7 @@
 * **Key Features:** Feature extraction on 60-second signal windows and model training using classic algorithms (Random Forest, Logistic Regression, kNN).
 * **Outcome:** Achieved 88% accuracy in binary stress classification by combining EDA, ECG, and respiratory signals.
 
-### 🍽️ [TheKnife](https://github.com/sonoFrangu/theknife) — *University Team Project*
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-> A distributed application designed for discovering, searching, and reviewing restaurants.
-
-* **Key Features:** Distributed architecture designed to handle concurrent user interactions and search queries.
-* **Database:** Robust backend integration using PostgreSQL for structured relational data management.
 
 ### 🚗 [Connecter](https://github.com/Toschi-Elia/Connecter) — *Personal Project*
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
